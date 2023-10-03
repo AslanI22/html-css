@@ -1,0 +1,15 @@
+.p1 {
+    font: 13px/20px 'Times New Roman';
+}
+
+.p2 {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+}
+
+.p3 {
+    font: bold 40px/60px italic Arial;
+    color: red;
+    text-indent: 50px;
+}
